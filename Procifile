@@ -1,4 +1,6 @@
 web: npm start us.js
+heroku maintenance:on
+$ heroku open node us.js
 
 
 
