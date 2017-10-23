@@ -1,8 +1,12 @@
 {
-  "name": "Usagi",
+  "name": "usagi",
   "version": "1.0.0",
-  "description": "Usagi",
-  "main": ".js",
+  "description": "Sailormoon bot",
+  "main": "usagi.js",
+  "scripts": {
+      "start": "node usagi.js"
+      
+  },
   "author": "Ernestenshi",
   "id": "371831774323671052",
   "email": "verne00@gmail.com"
