@@ -1,1 +1,1 @@
-worker: node usagi.js
+web: node usagi.js
