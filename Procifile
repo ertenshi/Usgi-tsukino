@@ -1,1 +1,1 @@
-web: node usagi.js
+heroku logs node usagi.js
