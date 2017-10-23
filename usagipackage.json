@@ -1,16 +1,13 @@
 {
-    "name": "Usagi",
-    "version": "1.0.0",
-    "description": "Usagi",
-    "main": "usagi.js",
-    "scripts": {
-        "start": "usagi.js"
-    },
-    "author": "Ernestenshi",
-    "id": "371831774323671052",
-    "email": "verne00@gmail.com",
-    "dependencies": {
-        "discord.js": "1.9.2",
-        "request": "2.81.0"
-    }
- }
+  "name": "Usagi",
+  "description": "Sailor moon bot",
+  "version": "1.0.0",
+  "main": "usagi.js",
+  "scripts": {
+    "start": "node usagi.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
