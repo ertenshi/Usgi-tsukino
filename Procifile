@@ -1,7 +1,4 @@
 worker: node us.js
-npm start
-npm bugs usagi
-npm owner ls usagi
 
 
 
