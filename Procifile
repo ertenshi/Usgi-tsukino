@@ -1,1 +1,1 @@
-heroku logs node usagi.js
+worker: node us.js
