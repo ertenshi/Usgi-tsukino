@@ -1,1 +1,4 @@
-worker: node us.js
+web: npm start
+
+
+
