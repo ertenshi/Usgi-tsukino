@@ -6,10 +6,10 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if (msg.content === 'ping') {
-    msg.reply('Pong!');
+  if (msg.content === 'hello!') {
+    msg.reply('helloooo!');
   }
 });
 
-client.login(MzcxODMxNzc0MzIzNjcxMDUy.DM9xbw.6DbXxc94SiToVzCb-iyFL-qoDrM);
+client.login(prossws.env.MzcxODMxNzc0MzIzNjcxMDUy.DM9xbw.6DbXxc94SiToVzCb-iyFL-qoDrM);
         
