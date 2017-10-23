@@ -2,9 +2,9 @@
     "name": "usagi",
     "description": "Sailor moon bot",
     "version": "0.0.0",
-    "main": "usagi.js",
+    "main": "us.js",
     "scripts": {
-      "start": "node usagi.js"
+      "start": "node us.js"
     },
     "dependencies": {
       "discord.js": "11.1.0",
