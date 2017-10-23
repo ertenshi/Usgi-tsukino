@@ -7,9 +7,8 @@ client.on('ready', () => {
 
 client.on('message', msg => {
   if (msg.content === 'hello!') {
-    msg.reply('helloooo!');
+    msg.reply('hellooo');
   }
 });
 
-client.login(process.env.MzcxODMxNzc0MzIzNjcxMDUy.DM-HOg.3lK4cVRnad64VxPfJIbCmOt8pmE);
-        
+client.login('MzcxODMxNzc0MzIzNjcxMDUy.DM9xbw.6DbXxc94SiToVzCb-iyFL-qoDrM');
