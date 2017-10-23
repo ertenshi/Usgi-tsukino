@@ -11,5 +11,5 @@ client.on('message', msg => {
   }
 });
 
-client.login(prossws.env.MzcxODMxNzc0MzIzNjcxMDUy.DM9xbw.6DbXxc94SiToVzCb-iyFL-qoDrM);
+client.login(process.env.MzcxODMxNzc0MzIzNjcxMDUy.DM-HOg.3lK4cVRnad64VxPfJIbCmOt8pmE);
         
